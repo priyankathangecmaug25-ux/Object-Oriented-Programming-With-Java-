@@ -6,7 +6,7 @@ The programs cover fundamental Java concepts such as **if-else, switch-case, ter
 
 ---
 ## 📂 Contents
-Each program corresponds to a specific scenario/problem statement:
+Each program corresponds to a specific scenario/problem statement:------------------------------------------------------------------------
 
 1. Greatest of Two Test Scores  
 2. Highest Salary Among Three Offers  
@@ -59,7 +59,7 @@ Each program corresponds to a specific scenario/problem statement:
 49. Days in Month Considering Leap Year  
 50. Divisibility by 2, 3, 5 with Custom Messages  
 
-## 🏅🚀 How to Run
+## 🏅🚀 How to Run--------
 1. Clone the repository:
    git clone https://github.com/your-username/oopj-lab-assignment.git 
 2.Navigate to the project folder:
@@ -71,7 +71,7 @@ javac Problem1.java
 4.Run the program:
 java Problem1
 
-💻📒 Topics Covered
+💻📒 Topics Covered----------
 Conditional Statements (if-else, nested if-else)
 Switch-case statements
 Ternary operators
@@ -80,6 +80,6 @@ Number operations (Armstrong, palindrome, sum of digits)
 Basic calculators and menu-driven programs
 Real-life scenarios (attendance, salary, discounts, voting, grades)
 
-🛠 Requirements
+🛠 Requirements---------------
 JDK 8 or above
 Any Java IDE (Eclipse, IntelliJ, NetBeans) or simple terminal
