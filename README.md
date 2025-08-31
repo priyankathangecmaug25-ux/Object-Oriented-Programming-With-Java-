@@ -71,7 +71,7 @@ javac Problem1.java
 4.Run the program:
 java Problem1
 
-# 💻📒 Topics Covered----------
+# 💻📒 Topics Covered------
 Conditional Statements (if-else, nested if-else)
 Switch-case statements
 Ternary operators
@@ -80,6 +80,6 @@ Number operations (Armstrong, palindrome, sum of digits)
 Basic calculators and menu-driven programs
 Real-life scenarios (attendance, salary, discounts, voting, grades)
 
-# 🛠 Requirements---------------
+# 🛠 Requirements------
 JDK 8 or above
 Any Java IDE (Eclipse, IntelliJ, NetBeans) or simple terminal
